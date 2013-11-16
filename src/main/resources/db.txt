@@ -1,0 +1,5 @@
+Host 	ec2-23-23-80-55.compute-1.amazonaws.com
+Database 	der2k4bpk1o527
+User 	qgfcxwrneunxbt
+Port 	5432
+Password 	Hide CV5sjDA66E1toRR2xnOFaApSLd
